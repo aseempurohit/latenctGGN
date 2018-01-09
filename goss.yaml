@@ -1,5 +1,7 @@
-port:
-  tcp:10002:
-    listening: true
-    ip:
-    - 0.0.0.0
+package:
+  nginx:
+    installed: true
+process:
+  nginx:
+    running: true
+
