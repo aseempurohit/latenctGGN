@@ -1,7 +1,3 @@
-package:
-  nginx:
-    installed: true
 process:
   nginx:
     running: true
-
