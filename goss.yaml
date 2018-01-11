@@ -1,3 +1,0 @@
-file:
-  /var/log/alternatives.log:
-    exists: true
